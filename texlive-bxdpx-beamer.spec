@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-bxdpx-beamer
 Version:	0.2
-Release:	8
+Release:	9
 Summary:	Dvipdfmx extras for use with beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/bxdpx-beamer
