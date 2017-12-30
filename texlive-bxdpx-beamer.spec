@@ -1,12 +1,6 @@
-# revision 30220
-# category Package
-# catalog-ctan /macros/latex/contrib/beamer-contrib/bxdpx-beamer
-# catalog-date 2013-05-03 01:03:17 +0200
-# catalog-license other-free
-# catalog-version 0.2
 Name:		texlive-bxdpx-beamer
-Version:	0.2
-Release:	9
+Version:	0.3
+Release:	1
 Summary:	Dvipdfmx extras for use with beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/bxdpx-beamer
@@ -34,11 +28,8 @@ and \framezoomed regions when using dvipdfmx as PDF generator
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/bxdpx-beamer/bxdpx-beamer.sty
-%doc %{_texmfdistdir}/doc/latex/bxdpx-beamer/LICENSE
-%doc %{_texmfdistdir}/doc/latex/bxdpx-beamer/README
-%doc %{_texmfdistdir}/doc/latex/bxdpx-beamer/sample/test-framezoom.tex
-%doc %{_texmfdistdir}/doc/latex/bxdpx-beamer/sample/test-navisymbol.tex
+%{_texmfdistdir}/tex/latex/bxdpx-beamer
+%doc %{_texmfdistdir}/doc/latex/bxdpx-beamer
 
 #-----------------------------------------------------------------------
 %prep
