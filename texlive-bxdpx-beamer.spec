@@ -1,6 +1,6 @@
 Name:		texlive-bxdpx-beamer
 Version:	41813
-Release:	1
+Release:	2
 Summary:	Dvipdfmx extras for use with beamer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/bxdpx-beamer
