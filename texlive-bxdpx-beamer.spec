@@ -3,7 +3,7 @@ Version:	41813
 Release:	2
 Summary:	Dvipdfmx extras for use with beamer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/bxdpx-beamer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamer-contrib/bxdpx-beamer
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxdpx-beamer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxdpx-beamer.doc.r%{version}.tar.xz
